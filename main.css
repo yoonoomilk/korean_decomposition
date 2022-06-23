@@ -1,0 +1,20 @@
+textarea {
+  font-size: 2em;
+  position: absolute;
+  width: 99%;
+  height: 49%;
+  resize: none;
+}
+#input {
+  top: 0px;
+}
+#output {
+  bottom: 0px;
+}
+#copy {
+  width: 50px;
+  height: 30px;
+  position: absolute;
+  right: 1%;
+  top: 51%;
+}
